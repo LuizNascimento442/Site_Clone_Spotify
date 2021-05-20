@@ -4,5 +4,5 @@
 *html5
 *CSS3
 
-![spotify](spotify.jpeg);
+![spotify](Spotify.jpeg);
 
